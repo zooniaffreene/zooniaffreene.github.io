@@ -1,5 +1,5 @@
 h1 {
-  color: red;
+  color: green;
   font: "Times New Roman";
 }
 h2 {
@@ -7,6 +7,6 @@ h2 {
   font: "Arial";
 }
 body {
-  background-color:pink;
+  background-color:black;
   
 }
