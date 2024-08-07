@@ -4,9 +4,9 @@ h1 {
 }
 h2 {
   color: blue;
-  font: "Arial";
+  font: "Times New Roman";
 }
 body {
-  background-color:black;
+  <body background="backgroundone.jpg">
   
 }
