@@ -12,8 +12,9 @@ body {
 }
 .button {
   background-color: #FC009B;
+  border-color: white;
   color: white;
-  padding: 15px 15px;
+  padding: 5px 5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
