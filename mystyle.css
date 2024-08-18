@@ -28,6 +28,7 @@ body {
 }
 .copyright {
   color: #2E9ADA;
-  font-size: 12px;
+  font-size: 14px;
   font: "Times New Roman";
+  font-weight: bold; 
 }
