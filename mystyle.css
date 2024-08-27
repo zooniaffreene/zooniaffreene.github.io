@@ -1,34 +1,45 @@
+/* Styles the h1 heading elements */
 h1 {
-  color: green;
-  font: "Times New Roman";
+  color: green; /* Sets the text color to green */
+  font: "Times New Roman"; /* Sets the font to "Times New Roman" */
 }
+
+/* Styles the h2 heading elements */
 h2 {
-  color: blue;
-  font: "Times New Roman";
+  color: blue; /* Sets the text color to blue */
+  font: "Times New Roman"; /* Sets the font to "Times New Roman" */
 }
+
+/* Styles the body element */
 body {
+  /* The body background is set to "backgroundone.jpg" */
   <body background="backgroundone.jpg">
-  
 }
+
+/* Styles elements with the class "button" */
 .button {
-  background-color: #FC009B;
-  border-color: white;
-  color: white;
-  padding: 5px 5px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+  background-color: #FC009B; /* Sets the background color to a bright pink */
+  border-color: white; /* Sets the border color to white */
+  color: white; /* Sets the text color to white */
+  padding: 5px 5px; /* Adds padding of 5px on all sides */
+  text-align: center; /* Centers the text */
+  text-decoration: none; /* Removes any text decoration (like underlining) */
+  display: inline-block; /* Displays the element as an inline block */
+  font-size: 16px; /* Sets the font size to 16px */
+  margin: 4px 2px; /* Adds margin around the button */
+  cursor: pointer; /* Changes the cursor to a pointer when hovering */
 }
+
+/* Styles elements with the class "container" */
 .container {
-  color: purple;
-  font: "Times New Roman";
+  color: purple; /* Sets the text color to purple */
+  font: "Times New Roman"; /* Sets the font to "Times New Roman" */
 }
+
+/* Styles elements with the class "copyright" */
 .copyright {
-  color: #2E9ADA;
-  font-size: 14px;
-  font: "Times New Roman";
-  font-weight: bold; 
+  color: #2E9ADA; /* Sets the text color to a specific shade of blue */
+  font-size: 14px; /* Sets the font size to 14px */
+  font: "Times New Roman"; /* Sets the font to "Times New Roman" */
+  font-weight: bold; /* Makes the text bold */
 }
